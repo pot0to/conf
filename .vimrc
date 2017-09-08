@@ -1,5 +1,14 @@
-syntax on
+" colorscheme
 colorscheme Tomorrow-Night
 
-set backspace=indent,eol,start
+" syntax highlighting
+syntax on
+
+" show line numbers
 set number
+
+" fix backspace issues
+set backspace=indent,eol,start
+
+" ctrl + z
+inoremap <c-z> <esc><c-z>
