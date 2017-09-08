@@ -1,5 +1,5 @@
 " colorscheme
-colorscheme Tomorrow-Night
+colorscheme My-Tomorrow-Night
 
 " syntax highlighting
 syntax on
