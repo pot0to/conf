@@ -1,11 +1,10 @@
+#terminal color scheme: darkside
+
 # prompt colors
-export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[35m\]\h:\[\033[33;1m\]\w\[\033[m\]\$ "
+export PS1="\[\e[1m\]\[\033[36m\]\u\[\033[m\]\[\033[35m\]@\h\[\033[33;1m\]\w\[\033[m\]\[\e[0m\]$ "
 
 # git autocompletion
-source ~/git-completion.bash
-
-
-
+#source ~/git-completion.bash
 
 #------------------#
 # PERSONAL ALIASES #
