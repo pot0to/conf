@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.bash_profile
+!.bash_rc
+!.tmux.conf
+!.vimrc
+
