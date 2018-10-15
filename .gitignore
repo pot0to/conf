@@ -5,6 +5,6 @@
 !.gitignore
 !.bash_profile
 !.bash_rc
+!.bash_aliases
 !.tmux.conf
 !.vimrc
-
